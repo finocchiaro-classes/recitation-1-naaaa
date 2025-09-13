@@ -6,7 +6,9 @@ You may work in groups of up to 3 on recitation assignments. Once you have compl
 If working in groups, please write a short description (1 sentence per person) of how your group worked together and the contributions of each person.
 
 ### CONTRIBUTIONS BY TEAM MEMBER
-
+Jose: Main editor of the code.
+Emanuel: Design of the maze and idea of the riddles.
+We worked together by giving ideas of what we wanted to achieve and how we were doing the code.
 Submit via Github Classroom by 11:59p ET.
 
 ## Instructions
